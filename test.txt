@@ -8,3 +8,5 @@ Better Conclusion
 What happens if we try to push a readme?
 
 Let's play with a stash
+
+Ok, now it is time to create a merge conflict!!!
