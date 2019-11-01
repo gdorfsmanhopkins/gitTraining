@@ -13,3 +13,5 @@ Check it out, I'm a cool person and like cheese! This is a branching practice si
 Let's play with a stash
 
 Ok, now it is time to create a merge conflict!!!
+
+This is a merge conflict!
