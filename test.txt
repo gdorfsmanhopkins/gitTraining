@@ -7,7 +7,4 @@ Better Conclusion
 
 What happens if we try to push a readme?
 
-
-Check it out, I'm a cool person and like cheese! This is a branching practice situation.
-
 Let's play with a stash
