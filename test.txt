@@ -11,4 +11,4 @@ Let's play with a stash
 
 Ok, now it is time to create a merge conflict!!!
 
-This is a merege conflict!
+This is a merge conflict!
